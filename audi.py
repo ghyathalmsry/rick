@@ -328,5 +328,5 @@ async def update(event):
     await audi.send_message("me", "**اكتمل ايقاف التكرار**")
 
 
-print("♦️ سورس اكسايت ♦️")
+print("rick 3mk")
 audi.run_until_disconnected()
