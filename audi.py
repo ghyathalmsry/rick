@@ -7,7 +7,7 @@ import asyncio
 import time
 from telethon.tl import functions, types
 from telethon.tl.functions.messages import ImportChatInviteRequest as Get
-from telethon.utils import get_display_nameِ
+from telethon.utils import get_display_name
 from telethon.tl.functions.channels import JoinChannelRequest
 from telethon.errors import FloodWaitError
 from telethon import TelegramClient, events
